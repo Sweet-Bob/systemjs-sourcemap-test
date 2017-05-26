@@ -1,5 +1,4 @@
 const gulp = require('gulp');
-var path = require("path");
 const runSequence = require('run-sequence');
 const Builder = require('systemjs-builder');
 const shell = require('gulp-shell');
